@@ -5,7 +5,8 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.7.0",
     "placetobe-styles": "Placetobe/placetobe-styles",
-    "placetobe-behaviors": "Placetobe/placetobe-behaviors"
+    "placetobe-behaviors": "Placetobe/placetobe-behaviors",
+    "iron-icons": "PolymerElements/iron-icons#^2.0.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
@@ -14,5 +15,8 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
   },
   "version": "1.0.0",
-  "homepage": "https://github.com/Placetobe/placetobe-checkbox"
+  "homepage": "https://github.com/Placetobe/placetobe-checkbox",
+  "resolutions": {
+    "iron-icons": "^1.0.0"
+  }
 }
